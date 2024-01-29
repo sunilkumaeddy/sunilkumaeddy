@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BhumiReddy SunilKumar Reddy
 ===================================================================================================================================================
 
-Machine Learning Engineer and Deep Learning or AI Engineer
+Machine Learning Enthusiast
 ---------------------------------------
 
 * 🌍  I'm based in Bangalore Rural
 * 🖥️  See my portfolio at [sunilkumareddy.com](http://sunilkumareddy.com)
-* ✉️  You can contact me at [sunilkumareddy62@gmail.com](mailto:sunilkumareddy62@gmail.com)
+* ✉️  Reach me on LinkedIn: https://www.linkedin.com/in/sunilkumar-eddy/
 * 🚀  I'm currently working on [Freelancer](http://www.upwork.com)
 * 🧠  I'm learning Deep Learning Frame Works
 * 🤝  I'm open to collaborating on Intresting And Unique Projects
